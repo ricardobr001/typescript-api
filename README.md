@@ -1,6 +1,6 @@
 # Rest API
 
-This is a experimental project using [TypeScript](https://www.typescriptlang.org/) to create a rest API using [ExpressJS](http://expressjs.com/)
+This is an experimental project using [TypeScript](https://www.typescriptlang.org/) to create a rest API using [ExpressJS](http://expressjs.com/)
 
 # Running the app
 
